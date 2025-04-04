@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bower": "*",
-    "bufferutil": "^4.0.1"
+    "bufferutil": "^4.0.9"
   },
   "devDependencies": {
     "chai": "3.5.0",
