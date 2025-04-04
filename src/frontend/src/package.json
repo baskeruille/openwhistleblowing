@@ -9,7 +9,7 @@
     "url": "git@github.com:globaleaks/GlobaLeaks.git"
   },
   "dependencies": {
-    "bower": "*",
+    "bower": "1.8.14",
     "bufferutil": "^4.0.1"
   },
   "devDependencies": {
