@@ -17,7 +17,7 @@
     "theme"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.4"
+    "bootstrap": "^4.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
